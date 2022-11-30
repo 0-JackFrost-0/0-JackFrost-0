@@ -14,8 +14,8 @@ I'm Om Godage, a second year undergrad in the  Department of Computer Science En
 - 👋 Hi, I’m @0-JackFrost-0
 - 👀 I’m interested in Computers and Physics
 - 💞️ I’m looking to collaborate on the following topics:
--  1. Super Resolution
--  2. Stock Market Prediction
+   1. Super Resolution
+   2. Stock Market Prediction
 
 
 <!---
