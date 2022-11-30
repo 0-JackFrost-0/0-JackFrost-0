@@ -20,6 +20,8 @@ I'm Om Godage, a second year undergrad in the  Department of Computer Science En
 ### :fire: My Stats:
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=0-JackFrost-0 -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=0-JackFrost-0&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=0-JackFrost-0)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 0-JackFrost-0/0-JackFrost-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
