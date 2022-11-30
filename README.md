@@ -5,7 +5,7 @@
 </div>
 <div id="badges" align="center">
 <a href="mailto:omgodage@gmail.com?subject=Hi From Github!"><img src="https://cdn4.iconfinder.com/data/icons/free-colorful-icons/360/gmail.png"  width="25" height="25"/></a> <a href="https://www.linkedin.com/in/om-godage-167b31233/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  width="20" height="20"/></a>
-<img src="https://komarev.com/ghpvc/?username=0-JackFrost--0&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=0-JackFrost-0&style=flat-square&color=blue" alt=""/>
 </div>
 
 <!-- [![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://github.com/jonsn0w/hyde/stargazers)
